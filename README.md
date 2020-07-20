@@ -3,8 +3,7 @@
 ## Data Cleaning With Python
 
 #### Project Goals
-Getting financial insights from data. Breaking up `daily_sales` in easy to understand lists `customers`, `sales`, and `threads_sold`.
-
+Getting financial insights from data. Breaking up `daily_sales` in easy to understand lists `customers`, `sales`, and `threads_sold`. [Click Here For Notebook File](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
 
 
 # Python Scripts
