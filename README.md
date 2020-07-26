@@ -6,6 +6,12 @@
 Getting financial insights from data. Breaking up `daily_sales` in easy to understand lists `customers`, `sales`, and `threads_sold`. [Click Here For Notebook File](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
 
 
+## A/B Test Analytics With Pandas
+
+#### Project Goals
+Shoefly.com has two different versions of an ad, which they have placed in emails, as well as in banner ads on [Facebook](https://web.facebook.com/?_rdc=1&_rdr), [Twitter](twitter.com), and [Google](google.com). They want to know how the two ads are performing on each of the different platforms on each day of the week.
+
+
 # Python Scripts
 
 ## Python Script Recommending Cheapest Shipping Price
