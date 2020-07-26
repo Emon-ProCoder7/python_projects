@@ -1,12 +1,12 @@
-# Jupyter Notebooks
+# 01. Jupyter Notebooks
 
-### Sales Data Cleaning With Python
+### i) Sales Data Cleaning With Python
 
 #### Project Goals
 Getting financial insights from data. Breaking up `daily_sales` in easy to understand lists `customers`, `sales`, and `threads_sold`. [Click Here For Notebook File](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
 
 
-### A/B Test Analytics With Pandas
+### ii) A/B Test Analytics With Pandas
 
 #### Project Goals
 Shoefly.com has two different versions of an ad, which they have placed in emails, as well as in banner ads on [Facebook](https://web.facebook.com/?_rdc=1&_rdr), [Twitter](twitter.com), and [Google](google.com). They want to know how the two ads are performing on each of the different platforms on each day of the week.[Click Here For The Project](https://github.com/Emon-ProCoder7/python_projects/blob/master/A_B%20Test%20Analytics.ipynb)
@@ -23,9 +23,9 @@ Shoefly.com has two different versions of an ad, which they have placed in email
 
 
 
-# Python Scripts
+# 02. Python Scripts
 
-### Python Script Recommending Cheapest Shipping Price
+### a) Python Script Recommending Cheapest Shipping Price
 
 #### Project Goals
 Sal runs the biggest shipping company in the tri-county area, Sal’s Shippers. Sal wants to make sure that every single one of his customers has the best, and most affordable experience shipping their packages. In this project, I’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.
@@ -34,7 +34,7 @@ Sal’s Shippers has several different options for a customer to ship their pack
 
 
 
-## Object Oriented Programming (OOPs)
+## b) Object Oriented Programming (OOPs)
 
 #### Project Goals
 Creating automated business objects running a Restaurant Business Chain.
