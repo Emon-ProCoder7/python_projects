@@ -1,12 +1,22 @@
-# 01. Jupyter Notebooks
+# **01. Jupyter Notebooks**
 
-### i) Sales Data Cleaning With Python
+
+### i) Data Visualization With Pandas, Seaborn & Matplotlib
+
+#### Project Goals
+For this project I have explored data from the [Fifa World Cup](https://en.wikipedia.org/wiki/FIFA_World_Cup) from 1930-2014 to analyze trends and discover insights about the world’s game, fútbol!
+
+This Fifa World Cup data is from [Kaggle](https://www.kaggle.com/abecklas/fifa-world-cup). Kaggle is a platform for data science competitions that hosts many datasets online. [Click Here For Notebook File](https://github.com/Emon-ProCoder7/python_projects/blob/master/Visualization_kaggle.ipynb)
+
+
+
+### ii) Sales Data Cleaning With Python
 
 #### Project Goals
 Getting financial insights from data. Breaking up `daily_sales` in easy to understand lists `customers`, `sales`, and `threads_sold`. [Click Here For Notebook File](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
 
 
-### ii) A/B Test Analytics With Pandas
+### iii) A/B Test Analytics With Pandas
 
 #### Project Goals
 **Shoefly.com** has two different versions of an ad, which they have placed in emails, as well as in banner ads on **Facebook, Twitter**, and **Google**. They want to know how the two ads are performing on each of the different platforms on each day of the week.[Click Here For The Project](https://github.com/Emon-ProCoder7/python_projects/blob/master/A_B%20Test%20Analytics.ipynb)
@@ -23,7 +33,7 @@ Getting financial insights from data. Breaking up `daily_sales` in easy to under
 
 
 
-# 02. Python Scripts
+# **02. Python Scripts**
 
 ### a) Python Script Recommending Cheapest Shipping Price
 
@@ -34,7 +44,7 @@ Sal’s Shippers has several different options for a customer to ship their pack
 
 
 
-## b) Object Oriented Programming (OOPs)
+## **b) Object Oriented Programming (OOPs)**
 
 #### Project Goals
 Creating automated business objects running a Restaurant Business Chain.
