@@ -17,7 +17,7 @@ This Fifa World Cup data is from [Kaggle](https://www.kaggle.com/abecklas/fifa-w
 
 
 
-*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Visualization_kaggle.ipynb)
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Visualization_kaggle.ipynb)
 
 
 
@@ -28,7 +28,7 @@ Getting financial insights from data. Breaking up `daily_sales` in easy to under
 
 
 
-*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
 
 
 
@@ -41,7 +41,7 @@ Getting financial insights from data. Breaking up `daily_sales` in easy to under
 
 
 
-*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/A_B%20Test%20Analytics.ipynb)
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/A_B%20Test%20Analytics.ipynb)
 
 
 
@@ -66,7 +66,7 @@ Sal’s Shippers has several different options for a customer to ship their pack
 
 
 
-*Click Here* [<img align="left" alt="Python" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7/python_projects/blob/master/Shipping%20Recommendation.py)
+👈🏻*Click Here* [<img align="left" alt="Python" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7/python_projects/blob/master/Shipping%20Recommendation.py)
 
 
 
@@ -85,4 +85,4 @@ Creating automated business objects running a Restaurant Business Chain.
  
  
  
- *Click Here* [<img align="left" alt="Python" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7/python_projects/blob/master/Object%20Oriented%20Programming(OOPs).py)
+ 👈🏻*Click Here* [<img align="left" alt="Python" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7/python_projects/blob/master/Object%20Oriented%20Programming(OOPs).py)
