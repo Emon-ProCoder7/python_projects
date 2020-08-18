@@ -19,7 +19,7 @@ This Fifa World Cup data is from [Kaggle](https://www.kaggle.com/abecklas/fifa-w
 
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Visualization_kaggle.ipynb)
 
-
+<br><br>
 
 ### ii) Sales Data Cleaning With Python
 
@@ -30,7 +30,7 @@ Getting financial insights from data. Breaking up `daily_sales` in easy to under
 
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Sales%20Data%20Cleaning.ipynb)
 
-
+<br><br>
 
 
 ### iii) A/B Test Analytics With Pandas
@@ -48,7 +48,7 @@ Getting financial insights from data. Breaking up `daily_sales` in easy to under
 
 
 
-
+<br><br><br><br>
               
 
 
@@ -69,7 +69,7 @@ Sal’s Shippers has several different options for a customer to ship their pack
 👈🏻*Click Here* [<img align="left" alt="Python" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7/python_projects/blob/master/Shipping%20Recommendation.py)
 
 
-
+<br><br>
 
 
 ## **b) Object Oriented Programming (OOPs)**
