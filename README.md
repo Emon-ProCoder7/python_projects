@@ -5,7 +5,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-# **01. Jupyter Notebooks** 
+<h1 align = 'center'> Jupyter Notebooks </h1> 
 
 
 ### i) Data Visualization With Pandas, Seaborn & Matplotlib
@@ -48,14 +48,14 @@ Getting financial insights from data. Breaking up `daily_sales` in easy to under
 
 
 
-<br><br><br><br>
+<br><br><br><br><br>
               
 
 
 
 
 
-# **02. Python Scripts**
+<h1 align = 'center'> Python Scripts </h1>
 
 ### a) Python Script Recommending Cheapest Shipping Price
 
